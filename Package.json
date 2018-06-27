@@ -1,0 +1,13 @@
+{
+  "name": "IHIbot",
+  "description": "Security Reasons",
+  "version": "0.0.0",
+  "main": "IHIbot.js",
+  "scripts": {
+    "start": "node IHIbot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
